@@ -18,9 +18,15 @@ Kilder:
 
 
 https://www.diskusjon.no/topic/1886075-ubiquiti-dream-machine-pro-mot-altibox-fiber/#comment-25607541
+
 https://www.diskusjon.no/topic/1886075-ubiquiti-dream-machine-pro-mot-altibox-fiber/page/3/#comment-26013562
+
 https://www.diskusjon.no/topic/1886075-ubiquiti-dream-machine-pro-mot-altibox-fiber/page/5/#comment-26509430
+
 https://www.diskusjon.no/topic/1886075-ubiquiti-dream-machine-pro-mot-altibox-fiber/page/6/#comment-26622994
+
 https://www.altibox.no/privat/kundeservice/hjelp-til-internett/hjemmesentral/vmg-2/
+
 https://www.diskusjon.no/topic/1886075-ubiquiti-dream-machine-pro-mot-altibox-fiber/page/7/#comment-26821629
+
 https://www.diskusjon.no/topic/1886075-ubiquiti-dream-machine-pro-mot-altibox-fiber/page/7/#comment-26822606
