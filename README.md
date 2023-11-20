@@ -15,6 +15,8 @@ Altiboks distribuerer internett over VLAN 102. Vedlagt følger de viktigste inns
 ![intern_settings](https://github.com/fborch/altiboks_UDM/assets/14937023/af7c9c47-62b1-45db-bfdd-75c72f51b103)
 
 Kilder:
+
+
 https://www.diskusjon.no/topic/1886075-ubiquiti-dream-machine-pro-mot-altibox-fiber/#comment-25607541
 https://www.diskusjon.no/topic/1886075-ubiquiti-dream-machine-pro-mot-altibox-fiber/page/3/#comment-26013562
 https://www.diskusjon.no/topic/1886075-ubiquiti-dream-machine-pro-mot-altibox-fiber/page/5/#comment-26509430
