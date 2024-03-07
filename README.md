@@ -13,7 +13,7 @@ IPV6 forklaring: https://help.ui.com/hc/en-us/articles/115005868927-UniFi-Gatewa
 ## Innstillinger på ditt nettverk:
 ![specific network](https://github.com/fborch/altiboks_UDM/assets/14937023/7e0461eb-6d1f-4048-8226-9af1041a67df)
 
-
+![Internett Settings](https://github.com/fborch/altiboks_UDM/blob/main/2024-03-07%2012_52_15-UniFi%20Network%20-%20UDM-Pro%20%E2%80%94%20Mozilla%20Firefox.png)
 
 Forklaring SLAAC: https://www.networkacademy.io/ccna/ipv6/stateless-address-autoconfiguration-slaac
 
@@ -37,7 +37,7 @@ IPV6 forklaring: https://help.ui.com/hc/en-us/articles/115005868927-UniFi-Gatewa
 ## Tilleggsinformasjon:
 
 Om du tidligere har hatt din UDM bak ruter fra altiboks, kan det være behov for å klone MAC. I UDm gjøres dette her:
-
+ 
 
 
 Kilder:
