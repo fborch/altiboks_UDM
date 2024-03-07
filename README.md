@@ -34,6 +34,12 @@ Cloudflare og sikkert andre har local peering i Oslo om du bor i umiddelbar nær
 
 IPV6 forklaring: https://help.ui.com/hc/en-us/articles/115005868927-UniFi-Gateway-Static-IPv6-and-DHCPv6-Prefix-Delegation
 
+## Tilleggsinformasjon:
+
+Om du tidligere har hatt din UDM bak ruter fra altiboks, kan det være behov for å klone MAC. I UDm gjøres dette her:
+
+
+
 Kilder:
 
 
